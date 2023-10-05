@@ -74,7 +74,7 @@
 
     var options = {
         // global option to enable or disable the script [true,false]
-        scriptEnabled: false,
+        scriptEnabled: true,
 
         // define here the type of registration [lva,group,exam]
         registrationType: "group",
