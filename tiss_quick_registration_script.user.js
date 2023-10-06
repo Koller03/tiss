@@ -139,7 +139,7 @@
         specificStartTime: new Date(2020, 1 - 1, 9, 20, 27, 0, 0),
 
         // if a specific time is defined, the script will refresh some ms sooner to adjust a delay [Integer]
-        delayAdjustmentInMs: 100,
+        delayAdjustmentInMs: 200,
 
         // show log output of the script on screen [true,false]
         showLog: true
